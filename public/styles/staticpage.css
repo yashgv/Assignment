@@ -235,6 +235,7 @@ body {
   gap: var(--gap-xl);
   font-size: var(--font-size-xs);
   color: var(--color-gray);
+  margin-bottom: 2rem;
 }
 .amenities-list {
   align-self: stretch;
