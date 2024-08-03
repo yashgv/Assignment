@@ -35,7 +35,7 @@ section{
  
  .search_bar{
      background-color: #F3F8FE;
-     padding: 8px;
+     padding: 10px 6px;
      display: flex;
      justify-content: flex-start;
      align-items: center;
