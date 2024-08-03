@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  font-style: inherit;
+}
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-circularxx: CircularXX;
+    --font-montserrat: Montserrat;
+    --font-hiatus: Hiatus;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-greyish: #B8B8B8;
+  
+    /* Effects */
+    --shasdfsd: 34px 24px 77px rgba(8, 88, 208, 0.33);
+  }

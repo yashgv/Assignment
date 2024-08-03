@@ -1,0 +1,107 @@
+.screen1-child {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  
+  .aspen-wrapper {
+    width: 100%;
+    position: absolute;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+
+    top: 10rem;
+  }
+  .plan-your {
+    font-size: 24px;
+    font-family: var(--font-montserrat);
+  }
+  .luxurious-vacation {
+    font-weight: 500;
+  }
+  .plan-your-luxurious-vacation {
+    line-height: 113.4%;
+  }
+  .plan-your-luxurious-container {
+    width:100%;
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .explore {
+    position: relative;
+    font-size: 16px;
+    font-family: var(--font-circularxx);
+    color: var(--color-white);
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .cta1 {
+    width: 100%;
+    cursor: pointer;
+    border: 0;
+    padding: 16px 20px;
+    align-self: stretch;
+    box-shadow: 0 4px 33px rgba(28, 24, 242, 0.08);
+    border-radius: 16px;
+    background: linear-gradient(-89.23deg, #176ff2, #196eee);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    z-index: 1;
+  }
+  .plan-your-luxurious-vacation-parent,
+  .screen1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .plan-your-luxurious-vacation-parent {
+    align-self: stretch;
+    align-items: flex-start;
+    gap: 8px;
+    text-align: left;
+    font-size: 40px;
+    font-family: var(--font-montserrat);
+    padding: 10px;
+    margin: 4rem 0rem;
+    padding: 0 2rem;
+  }
+  .screen1 {
+    height: 100vh;
+    width: 100%;
+
+
+    align-items: flex-end;
+    justify-content: flex-end;
+
+    position: relative;
+    background-color: #eef1f5;
+    overflow: hidden;
+    
+    box-shadow: var(--shasdfsd);
+    box-sizing: border-box;
+
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-size: 116px;
+    color: var(--color-white);
+    font-family: var(--font-hiatus);
+  }
