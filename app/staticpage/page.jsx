@@ -7,8 +7,11 @@ const page = () => {
       <img
         class="ptoduct-image-icon"
         alt=""
-        src="./public/ptoduct-image@2x.png"
+        src="./assets/places/place4.png"
       />
+      <div class="back-icon">
+        
+      </div>
 
       <section class="product-info">
         <div class="product-details">

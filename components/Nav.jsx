@@ -4,9 +4,9 @@ import "@public/styles/nav.css";
 const Nav = () => {
 
     const handleNav = (active) => {
-        document.querySelector(".nav_a").style.fill = "#B8B8B8";
-        document.querySelector("#nav_"+active).style.fill = "#176FF2";
-
+        // document.querySelector(".nav_a").style.fill = "#B8B8B8";
+        // document.querySelector("#nav_"+active).style.fill = "#176FF2";
+        
     }
 
   return (
