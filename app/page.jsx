@@ -19,7 +19,7 @@ export default function Home() {
               </span>
             </div>
             <button  class="cta1">
-              <a href="/home" style={"width: 100%"}>
+              <a href="/home" style={{width:"100%"}}>
                 <b class="explore">Explore</b>
               
               </a>
